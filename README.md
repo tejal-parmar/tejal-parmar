@@ -13,3 +13,5 @@ __________________________________________________________________________
 - ⚡ Fun fact: Always open for freelance gigs and contract based oppotunities.
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/parmartejal/)
+
+![Visitor Count](https://profile-counter.glitch.me/tejal-parmar/count.svg)
